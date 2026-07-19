@@ -1,0 +1,15 @@
+Takip edeceğimiz kurs Fehmi Uyarın Youtube'daki Python kursu olacak. Linkini bırakıyorum:
+
+https://youtube.com/playlist?list=PLY20HpFruiK17gQBHXjJN-YiFujiE1zVE&si=YmoUODEaxHdGl9Gu
+
+
+Videoları izlerken ve sonrasında yaptığın örnekleri kendi adına olan klasörün için ekleyip Github Desktop üzerinden gönder.
+dosya isimlerine dosyaNumarası-konuAdı.py şeklinde yükleyin ör:
+
+1-pythona-giris.py
+. . .
+20-donguler-while.py
+. . .
+35-hesap-makinası.py
+
+gibi sıralı ve düzgün yükleyin.
