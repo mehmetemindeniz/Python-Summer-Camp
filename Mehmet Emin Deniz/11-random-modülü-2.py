@@ -9,4 +9,4 @@ renkler = ["beyaz","kırmızı","mavi","sarı","lacivert","pembe","yeşil"]
 print("Duvarlar", random.choice(renkler), "olsun :)")
 
 text = "python"
-print(random.choice(text))
+print(random.choice(text)) # string içindeki harflerden birini rastgele seçer 
