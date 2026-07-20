@@ -24,4 +24,3 @@ print(type(x),type(y),type(z))
 colors=["white","red","grey","red","yellow"]
 a,b,c,d,e=colors #! Destruct işlemidir ,React'ta vs. yaygın olarak kullanılır 
 print(a,b,c,d,e)
-
